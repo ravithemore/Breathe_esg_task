@@ -1,0 +1,17 @@
+@import "./variables";
+@import "./global";
+@import "./pages/auth";
+@import "./pages/home/index";
+@import "./components/sidebar";
+@import "./components/userHeader";
+@import "./components/logoWhite";
+@import "./components/table";
+@import "./components/loading";
+
+.app-wrapper {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
