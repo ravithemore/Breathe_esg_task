@@ -53,7 +53,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/roshan3216/breathe-esg.git
+   git clone https://github.com/ravithemore/Breathe_esg_task
 
 2. Install Dependencies
     ```bash
